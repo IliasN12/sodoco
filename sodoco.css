@@ -1,0 +1,16 @@
+#table{
+    background-color: aqua;
+}
+.clor{
+    background-color: white;
+    padding: 0px;
+}
+.cclor{
+    padding: 5px;
+}
+#winner{
+    font-size: 60px;
+}
+.mark{
+    background-color: red;
+}
